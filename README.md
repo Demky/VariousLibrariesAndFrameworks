@@ -1,7 +1,7 @@
 # VariousLibrariesAndFrameworks :interrobang:
 Random libraries, frameworks, applications and stuffs that I like; **no main languages** (Javascript, others languages, etc). :sparkling_heart:
 
-:cyclone: * _ready to use_ stuffs*
+:cyclone: *_ready to use_ stuffs*
 --
 
 Languages | files or folder name | What do ?
