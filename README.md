@@ -7,7 +7,7 @@ Random libraries, frameworks, applications and stuffs that I like; **no main lan
 Languages | files or folder name | What do ?
 --------- | --------- | ---------
 Javascript, html, css | reCaptcha |  Google reCaptcha ready to use
-VueJS | passwordReveal | add an icons near a password input to let the user reveal his password
+VueJS | passwordReveal | add an icons near a password input to let the user reveal his password before validation
 
 *Libraries & Modules*
 --
