@@ -4,10 +4,10 @@ Random libraries, frameworks, applications and stuffs that I like; **no main lan
 :cyclone: *_ready to use_ stuffs*
 --
 
-Languages | files or folder name | What do ?
+ files or folder name | What do ? | Languages
 --------- | --------- | ---------
-Javascript, html, css | reCaptcha |  Google reCaptcha ready to use
-VueJS | passwordReveal | add an icons near a password input to let the user reveal his password before validation
+reCaptcha |  Google reCaptcha ready to use  | Javascript, html, css
+passwordReveal | add an icons near a password input to let the user reveal his password before validation  | Vue.JS 
 
 *Libraries & Modules*
 --
