@@ -1,13 +1,16 @@
 # VariousLibrariesAndFrameworks :interrobang:
 Random libraries, frameworks, applications and stuffs that I like; **no main languages** (Javascript, others languages, etc). :sparkling_heart:
 
+** This repository died the days I centralised pocs in the pocs repository 10/04/2019 **
+:imp:
+
+
 :cyclone: *_ready to use_ stuffs*
 --
 
  files or folder name | What do ? | Languages
 --------- | --------- | ---------
-reCaptcha |  Google reCaptcha ready to use  | Javascript, html, css
-passwordReveal | add an icons near a password input to let the user reveal his password before validation  | Vue.JS 
+_Coming soon_
 
 *Libraries & Modules*
 --
