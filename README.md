@@ -1,7 +1,7 @@
 # VariousLibrariesAndFrameworks :interrobang:
 Random libraries, frameworks, applications and stuffs that I like; **no main languages** (Javascript, others languages, etc). :sparkling_heart:
 
-** This repository died the days I centralised pocs in the pocs repository 10/04/2019 **
+**This repository died the days I centralised pocs in the pocs repository 10/04/2019**
 :imp:
 
 
